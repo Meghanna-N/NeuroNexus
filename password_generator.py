@@ -68,7 +68,7 @@ def update_history_display():
 
 # --- GUI Setup ---
 root = tk.Tk()
-root.title("Password Generator - Advanced")
+root.title("Password Generator")
 root.geometry("450x500")
 root.configure(bg="#f4f6f8")
 root.resizable(False, False)
